@@ -1,4 +1,4 @@
 class Addition {
-	def add(x, y): x + y
+	def add(x, z): x + z
 }
 
